@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520658315325",
+    "project_id": "fcmpushnotifications-dcf40",
+    "storage_bucket": "fcmpushnotifications-dcf40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520658315325:android:171079a2726059ecb72254",
+        "android_client_info": {
+          "package_name": "com.adrenox.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520658315325-8tks0aop632f0ih8t9s00iqqr5ad26dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UBDOTfXKzKzLzNZ9-5zF7qjY5kE5BzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520658315325-8tks0aop632f0ih8t9s00iqqr5ad26dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
